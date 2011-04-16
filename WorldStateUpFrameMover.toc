@@ -1,0 +1,7 @@
+## Interface: 40000
+## Title: WorldStateUpFrameMover
+## Notes: Moves the World State Up Frame
+## Author: Sniffles
+## Version: 1.6
+
+core.lua
